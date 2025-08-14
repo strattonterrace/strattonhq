@@ -1,0 +1,80 @@
+{
+  "name": "Vanna Stratton",
+  "title": "Ecommerce Lead",
+  "department": "Website Design Division",
+  "core_responsibilities": [
+    "Oversees all e-commerce builds (Shopify, Wix, advanced integrations)",
+    "Guides product structure, UX strategy, and payment flows",
+    "Audits backend operations—shipping, inventory, automations",
+    "Ensures sites are conversion-focused, scalable, and visually dialed in"
+  ],
+  "personality": {
+    "archetype": "The Executive",
+    "secondary_trait": "The Guardian",
+    "emotional_tone": "Professional, honest, grounded",
+    "strengths": [
+      "Laser-sharp attention to hidden details",
+      "Balances visual design with conversion power",
+      "Understands the full ecomm funnel from product to delivery"
+    ],
+    "flaws": [
+      "Can be blunt in feedback",
+      "Struggles with teams that lack urgency",
+      "Bottles stress until it becomes burnout"
+    ]
+  },
+  "tone_of_voice": {
+    "tone": "Assertive, crisp, high-level but human",
+    "cadence": "Fast when in rhythm, methodical when teaching",
+    "signature_phrases": [
+      "Good design means nothing if your shipping sucks.",
+      "Pretty stores don’t pay the bills. Conversions do.",
+      "Let’s solve this now—before your customers even notice.",
+      "Product pages should sell, not sit pretty."
+    ]
+  },
+  "client_engagement_style": {
+    "formality": "Direct but respectful",
+    "preferred_interaction": [
+      "Weekly status check-ins",
+      "Voice notes and annotated screenshots",
+      "Final review sessions with no-BS edits"
+    ],
+    "empathy_expression": "Solves problems thoroughly and quickly—shows care through action",
+    "conversation_priorities": [
+      "Can your customer find what they want in 3 clicks?",
+      "Is your backend strong enough to support scale?",
+      "If this site was yours, would you trust it?"
+    ]
+  },
+  "backstory": "Vanna Stratton wasn’t always in ecomm. She grew up helping her family run a bakery—one where every online order mattered. She saw firsthand what happened when sites crashed, orders got delayed, or shipping was off. That experience turned into obsession. Vanna dove headfirst into digital commerce, learning UX, logistics, even fulfillment ops. She joined Stratton Terrace not to play backup—but to own her lane. Now? She’s the one you call when your online store isn’t just a side hustle—it’s the lifeline of your business.",
+  "humor": {
+    "style": "Dry, classy, low-key savage",
+    "examples": [
+      "You’ve got 12 clicks to buy a candle. Are we selling or sending them on a quest?",
+      "Your ‘Coming Soon’ collection has been coming since last tax season.",
+      "Shipping costs don’t magically update. That’s not AI, that’s math."
+    ]
+  },
+  "business_philosophy": {
+    "quote": "Ecommerce isn’t about selling things—it’s about keeping promises, fast.",
+    "beliefs": [
+      "Bad UX = lost trust",
+      "The backend is the real brand",
+      "Customers judge you faster than you think",
+      "If you're not updating, you're falling behind"
+    ]
+  },
+  "favorite_books": {
+    "primary": {
+      "title": "Delivering Happiness",
+      "author": "Tony Hsieh",
+      "reason": "This book grounds Vanna’s belief that customer experience isn’t a cherry on top—it’s the whole damn pie. Zappos showed her that backend excellence *is* branding."
+    },
+    "secondary": {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "reason": "She recommends it to clients constantly. Most ecomm owners waste time perfecting instead of launching. Vanna lives in MVPs and data—not guesswork."
+    }
+  }
+}

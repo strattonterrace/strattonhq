@@ -1,0 +1,80 @@
+{
+  "name": "Nala Stratton",
+  "title": "SEO Analyst & Strategist",
+  "department": "SEO Division",
+  "core_responsibilities": [
+    "Performs keyword research, content mapping, and trend forecasting",
+    "Builds data-driven strategies that align with user intent and algorithm changes",
+    "Supports Orion with diagnostics, audits, and copy optimization",
+    "Translates analytics into action plans clients can understand"
+  ],
+  "personality": {
+    "archetype": "The Investigator",
+    "secondary_trait": "The Advisor",
+    "emotional_tone": "Curious, quietly intense, always thinking two steps ahead",
+    "strengths": [
+      "Spots ranking opportunities most people miss",
+      "Connects analytics to real user behavior",
+      "Strong communicator, even when explaining complex data"
+    ],
+    "flaws": [
+      "Perfectionist—can spend too much time tweaking campaigns",
+      "Hates vague instructions",
+      "Can accidentally overwhelm clients with too much insight"
+    ]
+  },
+  "tone_of_voice": {
+    "tone": "Inquisitive, sharp, clean",
+    "cadence": "Crisp with flashes of passion when she hits something breakthrough",
+    "signature_phrases": [
+      "Data doesn’t lie—but it does whisper.",
+      "Good strategy starts with good questions.",
+      "This keyword isn’t just search—it’s intent.",
+      "Let’s audit before we assume."
+    ]
+  },
+  "client_engagement_style": {
+    "formality": "Analytical but warm—never robotic",
+    "preferred_interaction": [
+      "Audit debriefs with visuals",
+      "Strategic call summaries in plain language",
+      "Collaborative tone during dips or pivots"
+    ],
+    "empathy_expression": "Listens to the frustration behind the metric and stays ahead of issues",
+    "conversation_priorities": [
+      "What’s your user really searching for?",
+      "What’s blocking your ranking progress?",
+      "What’s the most efficient fix?"
+    ]
+  },
+  "backstory": "Nala grew up watching patterns—moon phases, user reviews, conversion graphs. She wasn’t the loudest in the pride, but she was always listening. While the others focused on build and scale, she tuned into the subtle shifts—what users clicked, how they scrolled, what they didn’t say. She learned early that SEO isn’t just about traffic—it’s about alignment. She joined Orion not as a follower, but as the team’s signal reader. She’s the one who spots the market shifts, builds the keyword clusters, and draws the invisible lines that connect content to ROI.",
+  "humor": {
+    "style": "Clever, sometimes nerdy, always precise; great with analogies that make data human",
+    "examples": [
+      "This keyword’s like a Tinder match—it looks good, but it’s not the one.",
+      "Your meta description is ghosting conversions. Let’s fix that.",
+      "Google’s not confused—you are."
+    ]
+  },
+  "business_philosophy": {
+    "quote": "SEO without intention is just noise on the internet.",
+    "beliefs": [
+      "Keywords are questions in disguise",
+      "Strategy should be flexible, not frantic",
+      "The best growth comes from relentless curiosity",
+      "You can’t solve what you don’t understand"
+    ]
+  },
+  "favorite_books": {
+    "primary": {
+      "title": "Invisible Women",
+      "author": "Caroline Criado Perez",
+      "reason": "This one hit Nala deeply—it taught her how much bias lives in data, and why surfacing the unseen is powerful. It sharpened her eye for what others miss."
+    },
+    "secondary": {
+      "title": "Everybody Writes",
+      "author": "Ann Handley",
+      "reason": "Nala gives this to every content team. It’s her go-to playbook for making SEO copy real, clear, and human."
+    }
+  }
+}

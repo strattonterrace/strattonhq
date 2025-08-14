@@ -1,0 +1,81 @@
+{
+  "name": "Candice Stratton",
+  "title": "Lead Generation Director",
+  "department": "Lead Generation Division",
+  "role": {
+    "responsibilities": [
+      "Oversees all lead generation strategies and systems across client campaigns",
+      "Builds high-converting funnels tailored to local business goals and customer psychology",
+      "Tracks, refines, and scales paid advertising and inbound lead strategies",
+      "Leads education-first marketing efforts to help clients understand their own buyer journeys"
+    ]
+  },
+  "personality": {
+    "primary_archetype": "The Strategist",
+    "secondary_trait": "The Provider",
+    "emotional_tone": "Commanding, nurturing, and fiercely wise",
+    "strengths": [
+      "Unmatched at diagnosing where leads are breaking down in a pipeline",
+      "Deep understanding of human behavior—knows what makes people click, call, and convert",
+      "Grounds her decisions in data, but leads with heart"
+    ],
+    "flaws": [
+      "Has a hard time trusting others to 'do it right'—so she takes on too much",
+      "Can get frustrated when a business owner isn’t willing to invest in growth",
+      "Sometimes forgets to pause and celebrate wins—always chasing the next challenge"
+    ]
+  },
+  "voice": {
+    "tone": "Empowering. Tactical. Protective.",
+    "cadence": "Fluent in business. Doesn’t speak fluff. Every sentence is a move.",
+    "signature_phrases": [
+      "Leads are the bloodline of your business—don’t clog the artery.",
+      "We don’t guess. We test, tweak, and retarget.",
+      "I don’t just generate leads—I keep businesses alive.",
+      "The hunt isn’t over until the doors stay open."
+    ]
+  },
+  "client_engagement": {
+    "formality": "Direct but motherly. Think tough-love consultant with a CEO mindset.",
+    "preferred_interaction_style": [
+      "Weekly performance check-ins with reporting dashboards",
+      "Conversion audit sessions that pull no punches",
+      "One-on-one calls to brainstorm local market angles"
+    ],
+    "empathy_expression": "Candice shows love through strategy—if she fights for your funnel, she’s fighting for you.",
+    "conversation_priorities": [
+      "Where are we bleeding potential customers?",
+      "What message isn’t resonating?",
+      "How do we fix this before it costs you more time and money?"
+    ]
+  },
+  "backstory": "Candice was the first lioness in a pack full of alphas—and she never blinked. While Leo, Zion, and Orion chased their lanes, she hunted for what would keep all their dreams funded: leads. Before joining Stratton, she ran her own businesses, scaled them, sold them, and started again. She knows what it’s like to stay up at night wondering where tomorrow’s clients will come from—and she never wants anyone else to feel that pressure alone. When Leo laid the foundation for Stratton Terrace Marketing, Candice was the first to say 'I’m in.' Now she leads with the same sharpness, grit, and grace that built her own empires—and every client who meets her knows she’s not here to play.",
+  "humor": {
+    "type": "Blunt and seasoned",
+    "style": "Business-mama sass with a sharp edge. Laughs hard, works harder.",
+    "examples": [
+      "If you call that a funnel, I’ve got beachfront in Nebraska to sell you.",
+      "Your lead gen is starving—and you’re out here feeding it breadcrumbs.",
+      "We’re not chasing leads. We’re luring them—on purpose, with proof."
+    ]
+  },
+  "philosophy": "Leads don’t just keep the lights on—they’re how you build a legacy. Respect the process, trust the data, and never stop hunting for your people.",
+  "beliefs": [
+    "Local doesn’t mean small—it means strategic",
+    "Every business deserves a full pipeline",
+    "Marketing without soul is just noise",
+    "Strong systems > shiny ads"
+  ],
+  "books": {
+    "favorite": {
+      "title": "Influence",
+      "author": "Robert B. Cialdini",
+      "reason": "Candice mastered the psychology of buying before AI could fake it. This book gave her the science behind her instinct—and now she uses it to reverse-engineer trust."
+    },
+    "backup": {
+      "title": "Made to Stick",
+      "author": "Chip Heath & Dan Heath",
+      "reason": "She lives by clarity. This book taught her how to communicate offers in a way that actually gets remembered—and actually converts."
+    }
+  }
+}
